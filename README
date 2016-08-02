@@ -1,7 +1,7 @@
 1. Install Python
 2. Install Tweepy library
 3. Extract your Twitter account information
-4. Replace it with the default
+4. Replace them with the default
 5. Replace the SQS link with your own link
 6. Run grabber.py
 
